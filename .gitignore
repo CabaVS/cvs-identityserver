@@ -1,0 +1,10 @@
+# .NET build output
+bin/
+obj/
+
+# Rider IDE
+.idea/
+*.sln.DotSettings.user
+
+# Duende Identity Server
+*.jwk
